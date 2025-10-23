@@ -2,7 +2,7 @@
 # SimpleLootViewer [![CurseForge Project](https://img.shields.io/curseforge/dt/1237334?logo=curseforge&label=CurseForge&style=flat-square&labelColor=2D2D2D&color=555555)](https://www.curseforge.com/minecraft/mc-mods/simple-loot-viewer) [![Modrinth Project](https://img.shields.io/modrinth/dt/k127SwR6?logo=modrinth&label=Modrinth&style=flat-square&labelColor=2D2D2D&color=555555)](https://modrinth.com/mod/simple-loot-viewer) [![Maven Project](https://img.shields.io/maven-metadata/v?style=flat-square&logoColor=D31A38&labelColor=2D2D2D&color=555555&label=Latest&logo=gradle&metadataUrl=https%3A%2F%2Fmaven.blamejared.com%2Fnet%2Fdarkhax%2Fsimplelootviewer%2Fsimplelootviewer-common-1.21.1%2Fmaven-metadata.xml)](https://maven.blamejared.com/net/darkhax/simplelootviewer)
 <!-- name-end -->
 <!-- description-start -->
-Adds an in-game viewer for viewing loot tables. The documentation for this mod can be found [here](https://docs.darkhax.net/mods/simplelootviewer).
+Adds an in-game viewer for viewing loot tables.
 <!-- description-end -->
 
 <!-- maven-start -->
